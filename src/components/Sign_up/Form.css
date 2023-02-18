@@ -1,0 +1,11 @@
+.btn_sign{
+    height: 45px;
+    width: 100%;
+    background-color: rgb(115, 60, 244);
+    border:none;
+} 
+.btn_sign:hover{
+   background-color: white;
+   border: 2px solid;
+   color: black;
+} 

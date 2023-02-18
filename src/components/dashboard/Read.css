@@ -1,0 +1,23 @@
+.hiddenRow
+{
+    padding: 0 !important;
+}
+.modal-btn {
+    opacity: 1;
+    width: 200px;
+    height: fit-content;
+}
+.content-table thead tr{
+    background-color:#cadeef;
+    color:rgb(21, 0, 0);
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+.dashtable{
+    width: 80%;
+    margin: auto;
+    /* margin-left: 50px; */
+}
+.logoo{
+    color: black;
+}

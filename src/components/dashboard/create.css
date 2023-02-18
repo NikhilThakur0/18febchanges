@@ -1,0 +1,57 @@
+.wrapper{
+  height:100vh;
+}
+.login{
+  width:300px;
+  height: min-content;
+  border-radius: 30px;
+   background-color: rgb(238, 241,243);
+  /* background-color: white; */
+  box-shadow: 12px 12px 22px gray;
+}
+.btn
+{
+    background-color: #536dfe;
+}
+.btn:hover{
+  background:black;
+  color:white;
+}
+input[type='text']
+{
+    width:90%;
+    margin-left: 10px;
+    box-sizing: border-box;
+    border:0px;
+    background-color:white;
+}
+input[type='email']
+{
+    width: 90%;
+    margin-left: 10px;
+    box-sizing: border-box;
+    border:0px;
+    background-color:white;
+}
+.modal-body
+{
+  background-color:rgb(219 ,226    , 226);
+}
+
+.form-select
+{
+    width:90%;
+    margin-left: 10px;
+    box-sizing: border-box;
+    border:0px;
+    background-color:white;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+
+}
+input:focus{
+    outline:none;
+    background-color: #1c1c1c; 
+    border:0px;
+    border-bottom: 2px solid rgb(115, 60, 244);
+    color:white;    /* oranges! yey */
+  }
